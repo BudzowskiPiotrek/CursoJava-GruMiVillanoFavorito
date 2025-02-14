@@ -1,4 +1,6 @@
 # GruMiVillanoFavorito
+Examen Programación : Aplicación sobre pelicula "Gru mi villano favorito"
+
 Los villanos lideran ejércitos de Minions. La eficiencia de los villanos en una misión dependerá de la fuerza combinada de sus Minions, ajustada por su torpeza.
 
 Clase Minions: Los minions son unos seres adorables pero algo torpes. No tienen nombre, solo son los sirvientes de los villanos. Los atributos que definen a estos seres son la fuerza y la torpeza, que serán valores aleatorios entre 1 y 10 y que se inicializarán por defecto en el constructor. Una vez creados, no podrán modificarse sus atributos, pero sí listar sus atributos. (1.5 puntos)
